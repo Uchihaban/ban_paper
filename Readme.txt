@@ -1,9 +1,12 @@
-Èİ´íÂÛÎÄÏà¹Ø´úÂë£º
 
-1.Power-law topology£»
-2.Waxman topology£»
-3.Find the two survivable spanning tree connection with maximum survivability£»
-4.Look for replaceable edges.£»
+
+
+è®ºæ–‡ä»£ç ï¼š
+
+1.Power-law topologyï¼›
+2.Waxman topologyï¼›
+3.Find the two survivable spanning tree connection with maximum survivabilityï¼›
+4.Look for replaceable edges.ï¼›
 5.recover time;
 6.survivability;
 
